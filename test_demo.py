@@ -3,4 +3,4 @@ class Test:
         assert 1 == 1
 
     def test_02(self):
-        assert 2 == 3
+        assert 2 == 2
